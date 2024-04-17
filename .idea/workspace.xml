@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e28006b2-dabe-4817-9ede-d3cc374ec7d2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2d0SH0ayfDf5U9xLhowN50nGw30" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AllPossiblePermutations.executor": "Run",
+    "Application.BinaryTree.executor": "Run",
+    "Application.Q1_recursionsheet.executor": "Run",
+    "Application.Q2_recursionsheet.executor": "Run",
+    "Application.Q3_recursionsheet.executor": "Run",
+    "Application.Rotate_Array.executor": "Run",
+    "Application.allpossiblepermutations.executor": "Run",
+    "Application.allxtoend.executor": "Run",
+    "Application.alphabetcombinations.executor": "Debug",
+    "Application.alphabettoAscii.executor": "Run",
+    "Application.arraypartition.executor": "Run",
+    "Application.asteroid_collision_leet_735.executor": "Run",
+    "Application.climbing_stairs_70.executor": "Run",
+    "Application.codetantrawalaquestion.executor": "Run",
+    "Application.contiguousarray_525.executor": "Run",
+    "Application.daily_temperature.executor": "Debug",
+    "Application.factorial.executor": "Run",
+    "Application.fibonacci.executor": "Run",
+    "Application.findGCD_leet_1979.executor": "Run",
+    "Application.firstandlastoccurance.executor": "Run",
+    "Application.largest_rectangle_in_histogram_leet_84.executor": "Run",
+    "Application.lettercount.executor": "Debug",
+    "Application.longest_valid_parenthesis_leet_32.executor": "Run",
+    "Application.next_greater_leet_469.executor": "Run",
+    "Application.nnaturalnumbers.executor": "Run",
+    "Application.nokiakeypad.executor": "Run",
+    "Application.permutations.executor": "Run",
+    "Application.powern.executor": "Debug",
+    "Application.powernlogn.executor": "Run",
+    "Application.push_at_bottom.executor": "Debug",
+    "Application.queue_using_array.executor": "Debug",
+    "Application.recursion1.executor": "Run",
+    "Application.removeduplicates.executor": "Debug",
+    "Application.reverse_a_stack.executor": "Debug",
+    "Application.reversestring.executor": "Debug",
+    "Application.rotatearray.executor": "Run",
+    "Application.sort_a_stack.executor": "Run",
+    "Application.sortedarraycheck.executor": "Run",
+    "Application.stack_via_arraylist.executor": "Run",
+    "Application.stack_via_collectionframework.executor": "Run",
+    "Application.stacks_via_linkedList.executor": "Run",
+    "Application.stock_span_leet_901.executor": "Debug",
+    "Application.subsequences.executor": "Run",
+    "Application.towerofhanoi.executor": "Run",
+    "Application.traping_rain_water.executor": "Run",
+    "Application.traping_rain_water_leet_42.executor": "Debug",
+    "Application.uniquesubsequesnce.executor": "Run",
+    "Application.valid_parenthesis_20.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/She/projects/DSA/untitled/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="firstandlastoccurance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.firstandlastoccurance" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="removeduplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.removeduplicates" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reversestring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.reversestring" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="subsequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.subsequences" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="towerofhanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.towerofhanoi" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.firstandlastoccurance" />
+        <item itemvalue="Application.towerofhanoi" />
+        <item itemvalue="Application.subsequences" />
+        <item itemvalue="Application.reversestring" />
+        <item itemvalue="Application.removeduplicates" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e28006b2-dabe-4817-9ede-d3cc374ec7d2" name="Changes" comment="" />
+      <created>1709143415055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709143415055</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/powern.java</url>
+          <line>13</line>
+          <properties class="Recursion.powern" method="calcpower">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/powernlogn.java</url>
+          <line>13</line>
+          <properties class="Recursion.powernlogn" method="calcpower">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/towerofhanoi.java</url>
+          <line>10</line>
+          <properties class="Recursion.towerofhanoi" method="swapdisk">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/reversestring.java</url>
+          <line>10</line>
+          <properties class="Recursion.reversestring" method="reverse">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/firstandlastoccurance.java</url>
+          <line>15</line>
+          <properties class="Recursion.firstandlastoccurance" method="Occurance">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/allxtoend.java</url>
+          <line>9</line>
+          <properties class="Recursion.allxtoend" method="updatedstring">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/removeduplicates.java</url>
+          <line>11</line>
+          <properties class="Recursion.removeduplicates" method="remDuplicates">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/nokiakeypad.java</url>
+          <line>11</line>
+          <properties class="Recursion.nokiakeypad" method="calkeypad">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leet_code_100/Q1_recursionsheet.java</url>
+          <line>25</line>
+          <properties class="leet_code_100.Q1_recursionsheet" method="wellformedparenthesis">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Random_Questions/alphabetcombinations.java</url>
+          <line>13</line>
+          <properties class="Random_Questions.alphabetcombinations" method="testcombo">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leet_code_100/Q2_recursionsheet.java</url>
+          <line>52</line>
+          <properties class="Q2_recursionsheet" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/allpossiblepermutations.java</url>
+          <line>16</line>
+          <properties class="Recursion.allpossiblepermutations">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/permutations.java</url>
+          <line>9</line>
+          <properties class="Recursion.permutations" method="allpermutations">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Stacks/reverse_a_stack.java</url>
+          <line>26</line>
+          <properties class="Stacks.reverse_a_stack" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Stacks/valid_parenthesis_20.java</url>
+          <line>12</line>
+          <properties class="Stacks.valid_parenthesis_20" method="isvalid">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Stacks/sort_a_stack.java</url>
+          <line>5</line>
+          <properties class="Stacks.sort_a_stack" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Stacks/daily_temperature.java</url>
+          <line>17</line>
+          <properties class="Stacks.daily_temperature" method="nexthightemp">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Stacks/largest_rectangle_in_histogram_leet_84.java</url>
+          <line>12</line>
+          <properties class="Stacks.largest_rectangle_in_histogram_leet_84" method="maxarea">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Stacks/traping_rain_water_leet_42.java</url>
+          <line>11</line>
+          <properties class="Stacks.traping_rain_water_leet_42" method="trapwater">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Stacks/stock_span_leet_901.java</url>
+          <line>14</line>
+          <properties class="Stacks.stock_span_leet_901" method="analyze">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Stacks/longest_valid_parenthesis_leet_32.java</url>
+          <line>12</line>
+          <properties class="Stacks.longest_valid_parenthesis_leet_32" method="count">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Queues/queue_using_array.java</url>
+          <line>52</line>
+          <properties class="Queues.queue_using_array" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="13" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stacks/daily_temperature.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
