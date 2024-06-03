@@ -7,13 +7,6 @@
     <list default="true" id="e28006b2-dabe-4817-9ede-d3cc374ec7d2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dcpd/DAY_1/Amazon_WIFI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dcpd/DAY_1/Devu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dcpd/DAY_1/minimum_operations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dcpd/DAY_1/minimum_taps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dcpd/DAY_1/sum_of_region.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dcpd/DAY_2/hamburger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dcpd/DCPD KRG DSA QUESTIONS.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -50,6 +43,7 @@
     "Application.Devu.executor": "Run",
     "Application.LL_implementation.executor": "Run",
     "Application.LL_implementation_using_library.executor": "Run",
+    "Application.Linked_list_cycle_leet_141.executor": "Run",
     "Application.Q1_recursionsheet.executor": "Run",
     "Application.Q2_recursionsheet.executor": "Run",
     "Application.Q3_recursionsheet.executor": "Run",
@@ -88,6 +82,7 @@
     "Application.nnaturalnumbers.executor": "Run",
     "Application.nokiakeypad.executor": "Run",
     "Application.octal_to_decimal.executor": "Run",
+    "Application.palindorme_LL_leet_234.executor": "Run",
     "Application.palindromic_pairs.executor": "Run",
     "Application.permutations.executor": "Run",
     "Application.powern.executor": "Debug",
@@ -110,6 +105,7 @@
     "Application.stock_span_leet_901.executor": "Debug",
     "Application.subsequences.executor": "Run",
     "Application.sum_of_region.executor": "Run",
+    "Application.text_justification_leet_68.executor": "Run",
     "Application.towerofhanoi.executor": "Run",
     "Application.traping_rain_water.executor": "Run",
     "Application.traping_rain_water_leet_42.executor": "Debug",
@@ -468,13 +464,13 @@
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Random_Questions/append_character_to_string_leet_2486.java</url>
-          <line>10</line>
-          <properties class="Random_Questions.append_character_to_string_leet_2486" method="appendCharacters">
+          <url>file://$PROJECT_DIR$/src/Random_Questions/text_justification_leet_68.java</url>
+          <line>13</line>
+          <properties class="Random_Questions.text_justification_leet_68" method="fulljustify">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="52" />
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
