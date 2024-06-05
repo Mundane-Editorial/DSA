@@ -59,6 +59,7 @@
     "Application.arraypartition.executor": "Run",
     "Application.asteroid_collision_leet_735.executor": "Run",
     "Application.binary_to_octal.executor": "Run",
+    "Application.build_tree_preorder.executor": "Run",
     "Application.climbing_stairs_70.executor": "Run",
     "Application.codetantrawalaquestion.executor": "Run",
     "Application.contiguousarray_525.executor": "Run",
@@ -70,10 +71,12 @@
     "Application.firstandlastoccurance.executor": "Debug",
     "Application.hamburger.executor": "Run",
     "Application.hex_conversion.executor": "Run",
+    "Application.inorder_traversal.executor": "Run",
     "Application.largest_rectangle_in_histogram_leet_84.executor": "Run",
     "Application.leet_1404.executor": "Debug",
     "Application.leet_1608_special_array.executor": "Run",
     "Application.lettercount.executor": "Debug",
+    "Application.levelOrder_traversal.executor": "Run",
     "Application.linkedlist_reverse_iterative.executor": "Debug",
     "Application.longest_valid_parenthesis_leet_32.executor": "Run",
     "Application.manhattandistance.executor": "Run",
@@ -87,8 +90,10 @@
     "Application.palindorme_LL_leet_234.executor": "Run",
     "Application.palindromic_pairs.executor": "Run",
     "Application.permutations.executor": "Run",
+    "Application.postorder_traversal.executor": "Run",
     "Application.powern.executor": "Debug",
     "Application.powernlogn.executor": "Run",
+    "Application.preorder_tree.executor": "Run",
     "Application.push_at_bottom.executor": "Debug",
     "Application.queue_using_array.executor": "Debug",
     "Application.recursion1.executor": "Run",
@@ -488,6 +493,15 @@
           </properties>
           <option name="timeStamp" value="50" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Binary_Trees/build_tree_preorder.java</url>
+          <line>31</line>
+          <properties class="Binary_Trees.build_tree_preorder" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
           <option name="timeStamp" value="13" />
@@ -501,6 +515,11 @@
           <url>file://$PROJECT_DIR$/src/Random_Questions/unique_binary_tree.java</url>
           <line>10</line>
           <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Binary_Trees/preorder_traversal.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
