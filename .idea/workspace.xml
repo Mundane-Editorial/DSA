@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e28006b2-dabe-4817-9ede-d3cc374ec7d2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,95 +34,97 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AllPossiblePermutations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Amazon_WIFI.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Binarty_to_gray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinaryTree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Devu.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GATE.Binarty_to_gray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LL_implementation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LL_implementation_using_library.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Linked_list_cycle_leet_141.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1_recursionsheet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q2_recursionsheet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q3_recursionsheet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reverse_String_II_541.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Rotate_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.allpossiblepermutations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.allxtoend.executor&quot;: &quot;Run&quot;,
-    &quot;Application.alphabetcombinations.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.alphabettoAscii.executor&quot;: &quot;Run&quot;,
-    &quot;Application.append_character_to_string_leet_2486.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.array_manipulation.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.arraypartition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.asteroid_collision_leet_735.executor&quot;: &quot;Run&quot;,
-    &quot;Application.binary_to_octal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.climbing_stairs_70.executor&quot;: &quot;Run&quot;,
-    &quot;Application.codetantrawalaquestion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.contiguousarray_525.executor&quot;: &quot;Run&quot;,
-    &quot;Application.daily_temperature.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.fibonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Application.findGCD_leet_1979.executor&quot;: &quot;Run&quot;,
-    &quot;Application.firstandlastoccurance.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.hamburger.executor&quot;: &quot;Run&quot;,
-    &quot;Application.hex_conversion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.largest_rectangle_in_histogram_leet_84.executor&quot;: &quot;Run&quot;,
-    &quot;Application.leet_1404.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.leet_1608_special_array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lettercount.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.linkedlist_reverse_iterative.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.longest_valid_parenthesis_leet_32.executor&quot;: &quot;Run&quot;,
-    &quot;Application.manhattandistance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.minimum_operations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.minimum_taps.executor&quot;: &quot;Run&quot;,
-    &quot;Application.next_greater_leet_469.executor&quot;: &quot;Run&quot;,
-    &quot;Application.next_greatest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.nnaturalnumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.nokiakeypad.executor&quot;: &quot;Run&quot;,
-    &quot;Application.octal_to_decimal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.palindorme_LL_leet_234.executor&quot;: &quot;Run&quot;,
-    &quot;Application.palindromic_pairs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.permutations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.powern.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.powernlogn.executor&quot;: &quot;Run&quot;,
-    &quot;Application.push_at_bottom.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.queue_using_array.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.recursion1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.removeduplicates.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.reverse_a_linkedlist_extraspace.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reverse_a_linkedlist_noextraspace.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reverse_a_stack.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.reverse_string_potd_344.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.reversestring.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.rotatearray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sort_a_stack.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sortedarraycheck.executor&quot;: &quot;Run&quot;,
-    &quot;Application.stack_via_arraylist.executor&quot;: &quot;Run&quot;,
-    &quot;Application.stack_via_collectionframework.executor&quot;: &quot;Run&quot;,
-    &quot;Application.stacks_via_linkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.stock_span_leet_901.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.subsequences.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sum_of_region.executor&quot;: &quot;Run&quot;,
-    &quot;Application.text_justification_leet_68.executor&quot;: &quot;Run&quot;,
-    &quot;Application.towerofhanoi.executor&quot;: &quot;Run&quot;,
-    &quot;Application.traping_rain_water.executor&quot;: &quot;Run&quot;,
-    &quot;Application.traping_rain_water_leet_42.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.uniquesubsequesnce.executor&quot;: &quot;Run&quot;,
-    &quot;Application.valid_parenthesis_20.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/IntelliJ/Projects/DSA&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/She/projects/DSA/untitled/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AllPossiblePermutations.executor": "Run",
+    "Application.Amazon_WIFI.executor": "Run",
+    "Application.Binarty_to_gray.executor": "Run",
+    "Application.BinaryTree.executor": "Run",
+    "Application.Devu.executor": "Run",
+    "Application.GATE.Binarty_to_gray.executor": "Run",
+    "Application.LL_implementation.executor": "Run",
+    "Application.LL_implementation_using_library.executor": "Run",
+    "Application.Linked_list_cycle_leet_141.executor": "Run",
+    "Application.Q1_recursionsheet.executor": "Run",
+    "Application.Q2_recursionsheet.executor": "Run",
+    "Application.Q3_recursionsheet.executor": "Run",
+    "Application.Reverse_String_II_541.executor": "Run",
+    "Application.Rotate_Array.executor": "Run",
+    "Application.allpossiblepermutations.executor": "Run",
+    "Application.allxtoend.executor": "Run",
+    "Application.alphabetcombinations.executor": "Debug",
+    "Application.alphabettoAscii.executor": "Run",
+    "Application.append_character_to_string_leet_2486.executor": "Debug",
+    "Application.array_manipulation.executor": "Debug",
+    "Application.arraypartition.executor": "Run",
+    "Application.asteroid_collision_leet_735.executor": "Run",
+    "Application.binary_to_octal.executor": "Run",
+    "Application.climbing_stairs_70.executor": "Run",
+    "Application.codetantrawalaquestion.executor": "Run",
+    "Application.contiguousarray_525.executor": "Run",
+    "Application.daily_temperature.executor": "Debug",
+    "Application.factorial.executor": "Run",
+    "Application.fibonacci.executor": "Run",
+    "Application.findGCD_leet_1979.executor": "Run",
+    "Application.find_common_characters_leet_1002.executor": "Debug",
+    "Application.firstandlastoccurance.executor": "Debug",
+    "Application.hamburger.executor": "Run",
+    "Application.hex_conversion.executor": "Run",
+    "Application.largest_rectangle_in_histogram_leet_84.executor": "Run",
+    "Application.leet_1404.executor": "Debug",
+    "Application.leet_1608_special_array.executor": "Run",
+    "Application.lettercount.executor": "Debug",
+    "Application.linkedlist_reverse_iterative.executor": "Debug",
+    "Application.longest_valid_parenthesis_leet_32.executor": "Run",
+    "Application.manhattandistance.executor": "Run",
+    "Application.minimum_operations.executor": "Run",
+    "Application.minimum_taps.executor": "Run",
+    "Application.next_greater_leet_469.executor": "Run",
+    "Application.next_greatest.executor": "Run",
+    "Application.nnaturalnumbers.executor": "Run",
+    "Application.nokiakeypad.executor": "Run",
+    "Application.octal_to_decimal.executor": "Run",
+    "Application.palindorme_LL_leet_234.executor": "Run",
+    "Application.palindromic_pairs.executor": "Run",
+    "Application.permutations.executor": "Run",
+    "Application.powern.executor": "Debug",
+    "Application.powernlogn.executor": "Run",
+    "Application.push_at_bottom.executor": "Debug",
+    "Application.queue_using_array.executor": "Debug",
+    "Application.recursion1.executor": "Run",
+    "Application.removeduplicates.executor": "Debug",
+    "Application.reverse_a_linkedlist_extraspace.executor": "Run",
+    "Application.reverse_a_linkedlist_noextraspace.executor": "Run",
+    "Application.reverse_a_stack.executor": "Debug",
+    "Application.reverse_string_potd_344.executor": "Debug",
+    "Application.reversestring.executor": "Debug",
+    "Application.rotatearray.executor": "Run",
+    "Application.sort_a_stack.executor": "Run",
+    "Application.sortedarraycheck.executor": "Run",
+    "Application.stack_via_arraylist.executor": "Run",
+    "Application.stack_via_collectionframework.executor": "Run",
+    "Application.stacks_via_linkedList.executor": "Run",
+    "Application.stock_span_leet_901.executor": "Debug",
+    "Application.subsequences.executor": "Run",
+    "Application.sum_of_region.executor": "Run",
+    "Application.text_justification_leet_68.executor": "Run",
+    "Application.towerofhanoi.executor": "Run",
+    "Application.traping_rain_water.executor": "Run",
+    "Application.traping_rain_water_leet_42.executor": "Debug",
+    "Application.unique_binary_tree.executor": "Debug",
+    "Application.uniquesubsequesnce.executor": "Run",
+    "Application.valid_parenthesis_20.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/IntelliJ/Projects/Preparation",
+    "onboarding.tips.debug.path": "D:/She/projects/DSA/untitled/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.Binarty_to_gray">
+}]]></component>
+  <component name="RunManager">
     <configuration name="GATE.Binarty_to_gray" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GATE.Binarty_to_gray" />
       <module name="untitled" />
@@ -446,7 +446,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Dcpd/DAY_1/Amazon_WIFI.java</url>
           <line>12</line>
-          <properties class="Dcpd.DAY_1.Amazon_WIFI" method="ServedBuildings">
+          <properties class="Dcpd.DAY_1.Amazon_WIFI">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -496,6 +496,11 @@
           <url>file://$PROJECT_DIR$/src/Stacks/daily_temperature.java</url>
           <line>6</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Random_Questions/unique_binary_tree.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="52" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
