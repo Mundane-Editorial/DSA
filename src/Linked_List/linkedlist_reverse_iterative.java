@@ -16,19 +16,18 @@ public class linkedlist_reverse_iterative {
 
     private static void reverselist(LinkedList<String> list) {
         if (list == null || list.isEmpty() || list.size() == 1) {
-            return; // No need to reverse if list is empty or has only one element
+            return;
         }
 
         int left = 0;
         int right = list.size() - 1;
 
         while (left < right) {
-            // Swap elements at left and right indices
+
             String temp = list.get(left);
             list.set(left, list.get(right));
             list.set(right, temp);
 
-            // Move towards the center of the list
             left++;
             right--;
         }
