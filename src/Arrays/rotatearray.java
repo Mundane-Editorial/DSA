@@ -1,3 +1,5 @@
+package Arrays;
+
 import java.io.IOException;
 import java.util.Arrays;
 class rotatearray {
