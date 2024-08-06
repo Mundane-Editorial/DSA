@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e28006b2-dabe-4817-9ede-d3cc374ec7d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Random_Questions/roller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/rotatearray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/rotatearray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Linked_List/merge_sorted_linkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Linked_List/merge_sorted_linkedlist.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +41,9 @@
     "Application.Binarty_to_gray.executor": "Run",
     "Application.BinaryTree.executor": "Run",
     "Application.Devu.executor": "Run",
+    "Application.Equalstacks.executor": "Run",
     "Application.GATE.Binarty_to_gray.executor": "Run",
+    "Application.HourGlassSum.executor": "Run",
     "Application.LL_implementation.executor": "Run",
     "Application.LL_implementation_using_library.executor": "Run",
     "Application.Linked_list_cycle_leet_141.executor": "Run",
@@ -54,6 +53,7 @@
     "Application.Q3_recursionsheet.executor": "Run",
     "Application.Reverse_String_II_541.executor": "Run",
     "Application.Rotate_Array.executor": "Run",
+    "Application.add_ele_at_end.executor": "Run",
     "Application.allpossiblepermutations.executor": "Run",
     "Application.allxtoend.executor": "Run",
     "Application.alphabetcombinations.executor": "Debug",
@@ -129,6 +129,7 @@
     "Application.stack_via_collectionframework.executor": "Run",
     "Application.stacks_via_linkedList.executor": "Run",
     "Application.stock_span_leet_901.executor": "Debug",
+    "Application.subarray_range_sum.executor": "Debug",
     "Application.subsequences.executor": "Run",
     "Application.sum_of_region.executor": "Run",
     "Application.text_justification_leet_68.executor": "Run",
@@ -144,12 +145,12 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/IntelliJ/Projects/45-day-challenge",
+    "last_opened_file_path": "D:/Intellij/Projects/DSA",
     "onboarding.tips.debug.path": "D:/She/projects/DSA/untitled/src/Main.java",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Binarty_to_gray">
     <configuration name="GATE.Binarty_to_gray" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GATE.Binarty_to_gray" />
       <module name="untitled" />
@@ -558,6 +559,15 @@
           </properties>
           <option name="timeStamp" value="74" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Linked_List/add_ele_at_end.java</url>
+          <line>27</line>
+          <properties class="Linked_List.add_ele_at_end" method="addAtEnd">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
           <option name="timeStamp" value="13" />
@@ -601,6 +611,11 @@
           <url>file://$PROJECT_DIR$/src/Random_Questions/reorderlist.java</url>
           <line>14</line>
           <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/subarray_range_sum.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="79" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
