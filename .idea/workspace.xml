@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e28006b2-dabe-4817-9ede-d3cc374ec7d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Random_Questions/roller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/rotatearray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/rotatearray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Linked_List/merge_sorted_linkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Linked_List/merge_sorted_linkedlist.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +46,7 @@
     "Application.LL_implementation_using_library.executor": "Run",
     "Application.Linked_list_cycle_leet_141.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Maximum_number_of_points_with_cost_1937.executor": "Run",
     "Application.Q1_recursionsheet.executor": "Run",
     "Application.Q2_recursionsheet.executor": "Run",
     "Application.Q3_recursionsheet.executor": "Run",
@@ -80,6 +78,7 @@
     "Application.hand_of_straights.executor": "Run",
     "Application.hash_tute_1.executor": "Run",
     "Application.hex_conversion.executor": "Run",
+    "Application.hostel_warden_samsung.executor": "Run",
     "Application.increasing_triplet_subsequence.executor": "Run",
     "Application.inorder_traversal.executor": "Run",
     "Application.invert_binary_tree.executor": "Debug",
