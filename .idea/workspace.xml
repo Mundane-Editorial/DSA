@@ -135,6 +135,7 @@
     "Application.towerofhanoi.executor": "Run",
     "Application.traping_rain_water.executor": "Run",
     "Application.traping_rain_water_leet_42.executor": "Debug",
+    "Application.ugly_number_II_264.executor": "Debug",
     "Application.unique_binary_tree.executor": "Run",
     "Application.uniquesubsequesnce.executor": "Run",
     "Application.valid_parenthesis_20.executor": "Debug",
