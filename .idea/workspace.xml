@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e28006b2-dabe-4817-9ede-d3cc374ec7d2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e28006b2-dabe-4817-9ede-d3cc374ec7d2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,6 +138,7 @@
     "Application.ugly_number_II_264.executor": "Run",
     "Application.unique_binary_tree.executor": "Run",
     "Application.uniquesubsequesnce.executor": "Run",
+    "Application.valid_parenthesis.executor": "Run",
     "Application.valid_parenthesis_20.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
