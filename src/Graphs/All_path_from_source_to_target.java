@@ -72,3 +72,6 @@ public class All_path_from_source_to_target {
 
     }
 }
+
+
+// Time complexity ::  O(V^V)  cuz ye hr ek node co check krega vo bhi hr traversal pe
