@@ -50,3 +50,13 @@ public class number_of_islands {
         dfs(grid, i, j-1);
     }
 }
+
+/*
+* The time complexity of the NumberofIslands method can be analyzed as follows:
+Outer Loop: The method iterates through each cell in the grid using two nested loops. The outer loop runs m times (number of rows), and the inner loop runs n times (number of columns). Therefore, the total number of iterations for the loops is O(m * n).
+DFS Call: When a '1' (land) is found, the dfs method is called. The dfs method explores all connected land cells (1s) and marks them as visited (changing them to '2'). In the worst case, the dfs method will visit every cell in the grid once. Thus, the time complexity for the DFS traversal is also O(m * n).
+Combining these two parts, the overall time complexity of the NumberofIslands method is:
+*
+Time Complexity: O(m * n)
+*
+* */
