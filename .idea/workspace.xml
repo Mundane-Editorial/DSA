@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e28006b2-dabe-4817-9ede-d3cc374ec7d2" name="Changes" comment="" />
+    <list default="true" id="e28006b2-dabe-4817-9ede-d3cc374ec7d2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,22 +37,37 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AllPossiblePermutations.executor": "Run",
+    "Application.All_path_from_source_to_target.executor": "Run",
     "Application.Amazon_WIFI.executor": "Run",
+    "Application.BFS_for_disconnected_graph.executor": "Run",
+    "Application.BFS_in_Graphs.executor": "Run",
     "Application.Binarty_to_gray.executor": "Run",
     "Application.BinaryTree.executor": "Run",
+    "Application.Check_anagram.executor": "Debug",
+    "Application.DFS_in_Graphs.executor": "Run",
     "Application.Devu.executor": "Run",
+    "Application.Find_no_of_tyres.executor": "Run",
+    "Application.Flood_Fill.executor": "Run",
     "Application.GATE.Binarty_to_gray.executor": "Run",
+    "Application.Graph_implementation.executor": "Run",
+    "Application.K_farthest_element.executor": "Run",
+    "Application.Kadance_Algorithmn.executor": "Debug",
     "Application.LL_implementation.executor": "Run",
     "Application.LL_implementation_using_library.executor": "Run",
+    "Application.LinkedList_cycle_detection.executor": "Run",
     "Application.Linked_list_cycle_leet_141.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Max_unique_exponent.executor": "Run",
     "Application.Maximum_number_of_points_with_cost_1937.executor": "Run",
     "Application.Move_zeros_283.executor": "Run",
+    "Application.Nth_smalles_and_largest.executor": "Run",
+    "Application.Prime_number_sum.executor": "Run",
     "Application.Q1_recursionsheet.executor": "Run",
     "Application.Q2_recursionsheet.executor": "Run",
     "Application.Q3_recursionsheet.executor": "Run",
     "Application.Reverse_String_II_541.executor": "Run",
     "Application.Rotate_Array.executor": "Run",
+    "Application.Tournament.executor": "Run",
     "Application.allpossiblepermutations.executor": "Run",
     "Application.allxtoend.executor": "Run",
     "Application.alphabetcombinations.executor": "Debug",
@@ -71,6 +88,7 @@
     "Application.fibonacci.executor": "Run",
     "Application.findGCD_leet_1979.executor": "Run",
     "Application.find_common_characters_leet_1002.executor": "Debug",
+    "Application.find_missing_number.executor": "Run",
     "Application.firstandlastoccurance.executor": "Debug",
     "Application.frequency_of_numbers.executor": "Run",
     "Application.hamburger.executor": "Run",
@@ -99,6 +117,8 @@
     "Application.next_greatest.executor": "Run",
     "Application.nnaturalnumbers.executor": "Run",
     "Application.nokiakeypad.executor": "Run",
+    "Application.nth_fibonacci.executor": "Debug",
+    "Application.number_of_islands.executor": "Run",
     "Application.octal_to_decimal.executor": "Run",
     "Application.palindorme_LL_leet_234.executor": "Run",
     "Application.palindromic_pairs.executor": "Run",
@@ -116,10 +136,12 @@
     "Application.reverse_a_linkedlist_extraspace.executor": "Run",
     "Application.reverse_a_linkedlist_noextraspace.executor": "Run",
     "Application.reverse_a_stack.executor": "Debug",
+    "Application.reverse_string.executor": "Run",
     "Application.reverse_string_potd_344.executor": "Debug",
     "Application.reversestring.executor": "Debug",
     "Application.roller.executor": "Run",
     "Application.rotatearray.executor": "Run",
+    "Application.rotten_oranges_994.executor": "Run",
     "Application.sor_relative_arrays.executor": "Run",
     "Application.sort_a_stack.executor": "Run",
     "Application.sortedarraycheck.executor": "Run",
@@ -136,6 +158,7 @@
     "Application.traping_rain_water.executor": "Run",
     "Application.traping_rain_water_leet_42.executor": "Debug",
     "Application.ugly_number_II_264.executor": "Run",
+    "Application.undirected_weighted_graph_implementatoin.executor": "Run",
     "Application.unique_binary_tree.executor": "Run",
     "Application.uniquesubsequesnce.executor": "Run",
     "Application.valid_parenthesis.executor": "Run",
@@ -559,6 +582,15 @@
           </properties>
           <option name="timeStamp" value="74" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ALGORITHMS/Kadance_Algorithmn.java</url>
+          <line>17</line>
+          <properties class="ALGORITHMS.Kadance_Algorithmn" method="kadancealgo">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
           <option name="timeStamp" value="13" />
@@ -607,6 +639,16 @@
           <url>file://$PROJECT_DIR$/src/Random_Questions/ugly_number_II_264.java</url>
           <line>10</line>
           <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SAP_labs/Max_unique_exponent.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SAP_labs/Check_anagram.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="82" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
