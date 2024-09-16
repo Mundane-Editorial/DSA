@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e28006b2-dabe-4817-9ede-d3cc374ec7d2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SAP_labs/appends_strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SAP_labs/appends_strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SAP_labs/transpose_of_matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SAP_labs/transpose_of_matrix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,6 +158,7 @@
     "Application.text_justification_leet_68.executor": "Run",
     "Application.three_consecutive_odds.executor": "Run",
     "Application.towerofhanoi.executor": "Run",
+    "Application.transpose_of_matrix.executor": "Run",
     "Application.traping_rain_water.executor": "Run",
     "Application.traping_rain_water_leet_42.executor": "Debug",
     "Application.ugly_number_II_264.executor": "Run",
