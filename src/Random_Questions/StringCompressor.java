@@ -5,7 +5,7 @@ import java.util.HashMap;
 public class StringCompressor {
 
     public static void main(String[] args) {
-        String input = "3322251";
+        String input = "33322251222";
         String compressedString = compressString(input);
         System.out.println("Original String: " + input);
         System.out.println("Compressed String: " + compressedString);

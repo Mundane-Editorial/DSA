@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e28006b2-dabe-4817-9ede-d3cc374ec7d2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Random_Questions/StringCompressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Random_Questions/StringCompressor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +68,7 @@
     "Application.Q3_recursionsheet.executor": "Run",
     "Application.Reverse_String_II_541.executor": "Run",
     "Application.Rotate_Array.executor": "Run",
+    "Application.StringCompressor.executor": "Run",
     "Application.Tournament.executor": "Run",
     "Application.Triangle_detection.executor": "Run",
     "Application.allpossiblepermutations.executor": "Run",
