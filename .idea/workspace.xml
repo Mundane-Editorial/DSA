@@ -44,6 +44,7 @@
     "Application.Binarty_to_gray.executor": "Run",
     "Application.BinaryTree.executor": "Run",
     "Application.Check_anagram.executor": "Debug",
+    "Application.Cycle_detection_in_Directed_Graph.executor": "Run",
     "Application.DFS_in_Graphs.executor": "Run",
     "Application.Devu.executor": "Run",
     "Application.Find_no_of_tyres.executor": "Run",
@@ -69,7 +70,7 @@
     "Application.Rotate_Array.executor": "Run",
     "Application.StringCompressor.executor": "Run",
     "Application.Tournament.executor": "Run",
-    "Application.Triangle_detection.executor": "Run",
+    "Application.Triangle_detection.executor": "Debug",
     "Application.allpossiblepermutations.executor": "Run",
     "Application.allxtoend.executor": "Run",
     "Application.alphabetcombinations.executor": "Debug",
@@ -177,7 +178,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/IntelliJ/Projects/45-day-challenge",
+    "last_opened_file_path": "D:/VScode/Projects/Github_Clone/codecrafters-git-java",
     "onboarding.tips.debug.path": "D:/She/projects/DSA/untitled/src/Main.java",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
@@ -676,6 +677,11 @@
           <url>file://$PROJECT_DIR$/src/SAP_labs/Check_anagram.java</url>
           <line>16</line>
           <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Graphs/Triangle_detection.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="87" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
