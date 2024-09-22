@@ -11,7 +11,10 @@ public class max_product_of_3_numbers {
             return -1;
         }
         Arrays.sort(nums);
-        int l = nums.length-1;
-        return nums[l]*nums[l-1]*nums[l-2];
+
+        int maxpro1 = nums[nums.length-1] * nums[nums.length-2] * nums[nums.length-3];
+        int maxpro2 = nums[0] * nums[0] * nums[0];
+
+        return Math.max(maxpro1, maxpro2);
     }
 }
