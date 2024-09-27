@@ -70,6 +70,7 @@
     "Application.Rat_in_a_Maze.executor": "Run",
     "Application.Reverse_String_II_541.executor": "Run",
     "Application.Rotate_Array.executor": "Run",
+    "Application.Shortest_path_Dijkstras_Algorithmn.executor": "Debug",
     "Application.StringCompressor.executor": "Run",
     "Application.Tournament.executor": "Run",
     "Application.Triangle_detection.executor": "Debug",
@@ -631,6 +632,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Graphs/Shortest_path_Dijkstras_Algorithmn.java</url>
+          <line>58</line>
+          <properties class="Graphs.Shortest_path_Dijkstras_Algorithmn" method="dijkstra">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="89" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
