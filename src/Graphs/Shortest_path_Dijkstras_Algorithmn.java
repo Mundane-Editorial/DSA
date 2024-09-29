@@ -68,7 +68,7 @@ public class Shortest_path_Dijkstras_Algorithmn {
 
         boolean vis[] = new boolean[V];
 
-        pq.add(new Pair(0,0));
+        pq.add(new Pair(0,0)); // at node 0, distance is 0
 
         // bfs
 
