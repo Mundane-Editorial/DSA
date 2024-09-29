@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e28006b2-dabe-4817-9ede-d3cc374ec7d2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphs/Shortest_path_Dijkstras_Algorithmn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphs/Shortest_path_Dijkstras_Algorithmn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/allpossiblepermutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/allpossiblepermutations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,6 +168,7 @@
     "Application.stacks_via_linkedList.executor": "Run",
     "Application.stock_span_leet_901.executor": "Debug",
     "Application.subsequences.executor": "Run",
+    "Application.substring_of_a_string.executor": "Run",
     "Application.sum_of_individual_elements.executor": "Run",
     "Application.sum_of_region.executor": "Run",
     "Application.text_justification_leet_68.executor": "Run",
