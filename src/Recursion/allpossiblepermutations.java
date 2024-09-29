@@ -1,4 +1,4 @@
-//package Recursion;
+package Recursion;
 //
 //import java.io.*;
 //import java.util.ArrayList;
@@ -37,7 +37,7 @@ import java.util.List;
 public class allpossiblepermutations{
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();
-        String str = "abc";
+        String str = "abcde";
         possibleCombinations(str, 0, "", list);
         for (String permutation : list) {
             System.out.println(permutation);
