@@ -55,6 +55,7 @@
     "Application.GATE.Binarty_to_gray.executor": "Run",
     "Application.Graph_implementation.executor": "Run",
     "Application.Island_perimeter.executor": "Run",
+    "Application.JumpGameII.executor": "Debug",
     "Application.K_farthest_element.executor": "Run",
     "Application.Kadance_Algorithmn.executor": "Debug",
     "Application.LL_implementation.executor": "Run",
@@ -116,6 +117,7 @@
     "Application.inorder_traversal.executor": "Run",
     "Application.invert_binary_tree.executor": "Debug",
     "Application.is_subsequence_392.executor": "Debug",
+    "Application.jump_game.executor": "Debug",
     "Application.kth_character_in_string_game.executor": "Run",
     "Application.largest_rectangle_in_histogram_leet_84.executor": "Run",
     "Application.leet_1404.executor": "Debug",
@@ -804,6 +806,16 @@
           <url>file://$PROJECT_DIR$/src/Arrays/majority_element.java</url>
           <line>9</line>
           <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/jump_game.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/JumpGameII.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="111" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
