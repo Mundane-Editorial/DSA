@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e28006b2-dabe-4817-9ede-d3cc374ec7d2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stacks/valid_parenthesis_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stacks/valid_parenthesis_20.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +79,7 @@
     "Application.Shortest_path_Dijkstras_Algorithmn.executor": "Debug",
     "Application.StringCompressor.executor": "Run",
     "Application.Tournament.executor": "Run",
+    "Application.Trapping_rain_water_42.executor": "Debug",
     "Application.Triangle_detection.executor": "Debug",
     "Application.allpossiblepermutations.executor": "Run",
     "Application.allxtoend.executor": "Run",
@@ -100,6 +102,7 @@
     "Application.count_complete_tree_nodes.executor": "Debug",
     "Application.cycle_detection_in_undirected_graph.executor": "Run",
     "Application.daily_temperature.executor": "Debug",
+    "Application.dialpad_combinations.executor": "Run",
     "Application.directed_graph_cycle_detection.executor": "Debug",
     "Application.factorial.executor": "Run",
     "Application.fibonacci.executor": "Run",
@@ -841,6 +844,11 @@
           <url>file://$PROJECT_DIR$/src/Hashmaps/isomorphic_strings.java</url>
           <line>14</line>
           <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/Trapping_rain_water_42.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="119" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

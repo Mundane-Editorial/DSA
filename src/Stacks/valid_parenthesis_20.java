@@ -5,7 +5,7 @@ import java.util.Stack;
 public class valid_parenthesis_20 {
 
     public static void main(String args[]){
-        String str = "()))(";
+        String str = "([])";
         boolean valid = isvalid(str);
         System.out.println(valid);
     }
