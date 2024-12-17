@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e28006b2-dabe-4817-9ede-d3cc374ec7d2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stacks/valid_parenthesis_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stacks/valid_parenthesis_20.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,9 +102,10 @@
     "Application.cycle_detection_in_undirected_graph.executor": "Run",
     "Application.daily_temperature.executor": "Debug",
     "Application.dialpad_combinations.executor": "Run",
+    "Application.dialpad_pair_combinations.executor": "Debug",
     "Application.directed_graph_cycle_detection.executor": "Debug",
     "Application.factorial.executor": "Run",
-    "Application.fibonacci.executor": "Run",
+    "Application.fibonacci.executor": "Debug",
     "Application.findGCD_leet_1979.executor": "Run",
     "Application.find_common_characters_leet_1002.executor": "Debug",
     "Application.find_missing_number.executor": "Run",
@@ -145,6 +145,7 @@
     "Application.merge_two_sorted_arrays.executor": "Run",
     "Application.minimum_operations.executor": "Run",
     "Application.minimum_taps.executor": "Run",
+    "Application.n_to_one_using_backtracking.executor": "Run",
     "Application.next_greater_leet_469.executor": "Run",
     "Application.next_greatest.executor": "Run",
     "Application.nnaturalnumbers.executor": "Run",
@@ -152,6 +153,7 @@
     "Application.nth_fibonacci.executor": "Debug",
     "Application.number_of_islands.executor": "Run",
     "Application.octal_to_decimal.executor": "Run",
+    "Application.one_to_n_using_backtracking.executor": "Run",
     "Application.palindorme_LL_leet_234.executor": "Run",
     "Application.palindromic_pairs.executor": "Run",
     "Application.pattern_matching.executor": "Run",
@@ -160,6 +162,8 @@
     "Application.powern.executor": "Debug",
     "Application.powernlogn.executor": "Run",
     "Application.preorder_tree.executor": "Run",
+    "Application.print_linearly_till_n.executor": "Run",
+    "Application.print_names_till_n.executor": "Run",
     "Application.product_except_self.executor": "Debug",
     "Application.product_of_array_except_self.executor": "Debug",
     "Application.push_at_bottom.executor": "Debug",
@@ -210,6 +214,7 @@
     "Application.valid_parenthesis_20.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -849,6 +854,16 @@
           <url>file://$PROJECT_DIR$/src/Arrays/Trapping_rain_water_42.java</url>
           <line>9</line>
           <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Strings/dialpad_pair_combinations.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Random_Questions/fibonacci.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="121" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
