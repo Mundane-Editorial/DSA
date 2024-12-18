@@ -176,6 +176,7 @@
     "Application.reverse_a_linkedlist_extraspace.executor": "Debug",
     "Application.reverse_a_linkedlist_noextraspace.executor": "Run",
     "Application.reverse_a_stack.executor": "Debug",
+    "Application.reverse_an_array.executor": "Run",
     "Application.reverse_string.executor": "Run",
     "Application.reverse_string_potd_344.executor": "Debug",
     "Application.reversestring.executor": "Debug",
@@ -198,6 +199,7 @@
     "Application.substring_of_a_string.executor": "Run",
     "Application.sum_of_individual_elements.executor": "Run",
     "Application.sum_of_region.executor": "Run",
+    "Application.sum_till_n.executor": "Run",
     "Application.text_justification_leet_68.executor": "Run",
     "Application.thoms_number.executor": "Run",
     "Application.three_consecutive_odds.executor": "Run",
@@ -730,6 +732,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion_tute_striver/sum_till_n.java</url>
+          <line>9</line>
+          <properties class="Recursion_tute_striver.sum_till_n" method="funtionalwayoffindingsum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="122" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
