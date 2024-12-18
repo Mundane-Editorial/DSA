@@ -10,6 +10,7 @@ public class fibonacc {
         if(n <= 1){
             return n;
         }
+        System.out.println((n-1) + " " + (n-2));
         return getfibo(n-1) + getfibo(n-2);
     }
 }
