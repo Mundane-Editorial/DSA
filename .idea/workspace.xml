@@ -190,6 +190,7 @@
     "Application.rotatearray.executor": "Run",
     "Application.rotten_oranges_994.executor": "Run",
     "Application.search_in_sorted_array_II.executor": "Run",
+    "Application.searching_in_BST.executor": "Run",
     "Application.shift_zero_to_left.executor": "Run",
     "Application.shift_zero_to_right.executor": "Run",
     "Application.sneaky_numbers.executor": "Debug",
@@ -795,15 +796,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="124" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Binary_Trees/insertion_in_BST.java</url>
-          <line>42</line>
-          <properties class="Binary_Trees.insertion_in_BST" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="129" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
