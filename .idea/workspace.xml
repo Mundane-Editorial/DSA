@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e28006b2-dabe-4817-9ede-d3cc374ec7d2" name="Changes" comment="added new function to swap the elements of an array using only a single variable">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Binary_Trees/traversals_BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Binary_Trees/traversals_BST.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,13 +223,14 @@
     "Application.transpose_of_matrix.executor": "Run",
     "Application.traping_rain_water.executor": "Run",
     "Application.traping_rain_water_leet_42.executor": "Run",
+    "Application.traversals_BST.executor": "Run",
     "Application.ugly_number_II_264.executor": "Run",
     "Application.undirected_weighted_graph_implementatoin.executor": "Run",
     "Application.unique_binary_tree.executor": "Run",
     "Application.uniquesubsequesnce.executor": "Run",
     "Application.valid_parenthesis.executor": "Run",
     "Application.valid_parenthesis_20.executor": "Debug",
-    "Application.zigzag_pattern.executor": "Run",
+    "Application.zigzag_pattern.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "deletionFromPopupRequiresConfirmation": "false",
@@ -811,6 +813,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Strings/zigzag_pattern.java</url>
+          <line>10</line>
+          <properties class="Strings.zigzag_pattern" method="convert">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="128" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
