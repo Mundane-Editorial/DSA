@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e28006b2-dabe-4817-9ede-d3cc374ec7d2" name="Changes" comment="added new function to swap the elements of an array using only a single variable">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Binary_Trees/traversals_BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Binary_Trees/traversals_BST.java" afterDir="false" />
-    </list>
+    <list default="true" id="e28006b2-dabe-4817-9ede-d3cc374ec7d2" name="Changes" comment="added new function to swap the elements of an array using only a single variable" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
