@@ -143,14 +143,16 @@
     "Application.lettercount.executor": "Debug",
     "Application.levelOrder_traversal.executor": "Debug",
     "Application.linkedlist_reverse_iterative.executor": "Debug",
+    "Application.longest_common_prefix.executor": "Debug",
     "Application.longest_valid_parenthesis_leet_32.executor": "Run",
     "Application.majority_element.executor": "Debug",
     "Application.manhattandistance.executor": "Run",
+    "Application.max_diameter_of_BST.executor": "Run",
     "Application.max_product_of_3_numbers.executor": "Run",
     "Application.maximum_depth_of_bt.executor": "Run",
     "Application.maximum_possible_number_by_string_concatination.executor": "Run",
     "Application.maximum_total_height_of_unique_towers.executor": "Run",
-    "Application.merge_two_sorted_arrays.executor": "Run",
+    "Application.merge_two_sorted_arrays.executor": "Debug",
     "Application.minimum_operations.executor": "Run",
     "Application.minimum_taps.executor": "Run",
     "Application.n_to_one_using_backtracking.executor": "Run",
@@ -766,15 +768,6 @@
           <option name="timeStamp" value="104" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Arrays/merge_two_sorted_arrays.java</url>
-          <line>12</line>
-          <properties class="Arrays.merge_two_sorted_arrays" method="merge">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="106" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Recursion_tute_striver/sum_till_n.java</url>
           <line>9</line>
           <properties class="Recursion_tute_striver.sum_till_n" method="funtionalwayoffindingsum">
@@ -800,6 +793,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays/merge_two_sorted_arrays.java</url>
+          <line>12</line>
+          <properties class="Arrays.merge_two_sorted_arrays" method="merge">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Strings/longest_common_prefix.java</url>
+          <line>9</line>
+          <properties class="Strings.longest_common_prefix" method="longestCommonPrefix">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="127" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
@@ -934,11 +945,6 @@
           <url>file://$PROJECT_DIR$/src/Random_Questions/fibonacci.java</url>
           <line>4</line>
           <option name="timeStamp" value="121" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Binary_Trees/Deletion_in_BST.java</url>
-          <line>79</line>
-          <option name="timeStamp" value="125" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
