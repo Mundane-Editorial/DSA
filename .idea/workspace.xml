@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e28006b2-dabe-4817-9ede-d3cc374ec7d2" name="Changes" comment="added new function to swap the elements of an array using only a single variable" />
+    <list default="true" id="e28006b2-dabe-4817-9ede-d3cc374ec7d2" name="Changes" comment="added new function to swap the elements of an array using only a single variable">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +64,7 @@
     "Application.LL_implementation_using_library.executor": "Run",
     "Application.LinkedList_cycle_detection.executor": "Run",
     "Application.Linked_list_cycle_leet_141.executor": "Run",
+    "Application.Lowest_common_ancestor_BST.executor": "Debug",
     "Application.Main.executor": "Run",
     "Application.Max_unique_exponent.executor": "Run",
     "Application.Maximum_number_of_points_with_cost_1937.executor": "Run",
@@ -151,6 +154,7 @@
     "Application.maximum_possible_number_by_string_concatination.executor": "Run",
     "Application.maximum_total_height_of_unique_towers.executor": "Run",
     "Application.merge_two_sorted_arrays.executor": "Debug",
+    "Application.min_and_max_in_BST.executor": "Run",
     "Application.minimum_operations.executor": "Run",
     "Application.minimum_taps.executor": "Run",
     "Application.n_to_one_using_backtracking.executor": "Run",
@@ -819,6 +823,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Binary_Trees/Lowest_common_ancestor_BST.java</url>
+          <line>29</line>
+          <properties class="Binary_Trees.Lowest_common_ancestor_BST.BST" method="findLCA">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="129" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
