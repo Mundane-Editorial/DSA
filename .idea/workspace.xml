@@ -136,6 +136,7 @@
     "Application.ispoweroftwo.executor": "Debug",
     "Application.jump_game.executor": "Debug",
     "Application.kth_character_in_string_game.executor": "Run",
+    "Application.largest_rec_in_histogram_BRUTE.executor": "Run",
     "Application.largest_rectangle_in_histogram_leet_84.executor": "Run",
     "Application.leet_1404.executor": "Debug",
     "Application.leet_1509_diff_bw_largest_smallest.executor": "Run",
