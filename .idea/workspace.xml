@@ -93,6 +93,7 @@
     "Application.array_manipulation.executor": "Debug",
     "Application.arraypartition.executor": "Run",
     "Application.asteroid_collision_leet_735.executor": "Run",
+    "Application.binary_Search_in_sorted_rotated_array.executor": "Debug",
     "Application.binary_to_octal.executor": "Run",
     "Application.bubblesort_tcs.executor": "Run",
     "Application.build_tree_preorder.executor": "Run",
@@ -832,6 +833,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays/binary_Search_in_sorted_rotated_array.java</url>
+          <line>10</line>
+          <properties class="Arrays.binary_Search_in_sorted_rotated_array" method="search">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="130" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
