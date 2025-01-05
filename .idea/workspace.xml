@@ -175,6 +175,7 @@
     "Application.postorder_traversal.executor": "Run",
     "Application.powern.executor": "Debug",
     "Application.powernlogn.executor": "Run",
+    "Application.prefix_sum.executor": "Run",
     "Application.preorder_tree.executor": "Run",
     "Application.print_linearly_till_n.executor": "Run",
     "Application.print_names_till_n.executor": "Run",
@@ -842,6 +843,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays/prefix_sum.java</url>
+          <line>8</line>
+          <properties class="Arrays.prefix_sum" method="prefixsum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="131" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
