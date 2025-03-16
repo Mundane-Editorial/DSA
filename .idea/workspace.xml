@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e28006b2-dabe-4817-9ede-d3cc374ec7d2" name="Changes" comment="added new function to swap the elements of an array using only a single variable" />
+    <list default="true" id="e28006b2-dabe-4817-9ede-d3cc374ec7d2" name="Changes" comment="added new function to swap the elements of an array using only a single variable">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +69,7 @@
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.Max_unique_exponent.executor&quot;: &quot;Run&quot;,
     &quot;Application.Maximum_number_of_points_with_cost_1937.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MobileNumberGuesser.executor&quot;: &quot;Run&quot;,
     &quot;Application.Move_zeros_283.executor&quot;: &quot;Run&quot;,
     &quot;Application.Nth_smalles_and_largest.executor&quot;: &quot;Run&quot;,
     &quot;Application.Prime_number_sum.executor&quot;: &quot;Run&quot;,
@@ -237,6 +240,7 @@
     &quot;Application.zigzag_pattern.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
@@ -246,13 +250,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Unnamed">
+  <component name="RunManager" selected="Application.MobileNumberGuesser">
     <configuration name="GATE.Binarty_to_gray" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GATE.Binarty_to_gray" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="GATE.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MobileNumberGuesser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="random_questions.MobileNumberGuesser" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="random_questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,19 +285,6 @@
     </configuration>
     <configuration name="firstandlastoccurance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursion.firstandlastoccurance" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="removeduplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.removeduplicates" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -334,19 +338,19 @@
     <list>
       <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.GATE.Binarty_to_gray" />
+      <item itemvalue="Application.MobileNumberGuesser" />
       <item itemvalue="Application.firstandlastoccurance" />
-      <item itemvalue="Application.removeduplicates" />
       <item itemvalue="Application.reversestring" />
       <item itemvalue="Application.subsequences" />
       <item itemvalue="Application.towerofhanoi" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MobileNumberGuesser" />
         <item itemvalue="Application.firstandlastoccurance" />
         <item itemvalue="Application.towerofhanoi" />
         <item itemvalue="Application.subsequences" />
         <item itemvalue="Application.reversestring" />
-        <item itemvalue="Application.removeduplicates" />
       </list>
     </recent_temporary>
   </component>
