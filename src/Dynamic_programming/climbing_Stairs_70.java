@@ -2,7 +2,7 @@ package Dynamic_programming;
 
 public class climbing_Stairs_70 {
     public static void main(String[] args) {
-        int n = 5;
+        int n = 15;
         System.out.println(totalNoOfWays(n));
     }
 
@@ -17,6 +17,7 @@ public class climbing_Stairs_70 {
 
         for(int i=3; i<=n; i++){
             dp[i] = dp[i-1] + dp[i-2];
+            System.out.print(dp[i] + " ");
         }
 
         return dp[n];
