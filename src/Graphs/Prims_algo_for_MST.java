@@ -78,7 +78,7 @@ public class Prims_algo_for_MST {
 
     public static void main(String[] args) {
         int V = 4;
-        ArrayList<Edge> graph[] = new ArrayList[V];
+        ArrayList<Edge> graph[] = new ArrayList[V];//
         createGraph(graph);
         primsAlgo(graph, V);
     }

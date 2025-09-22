@@ -1,16 +1,16 @@
 package ALGORITHMS;
 
 
-
 import java.util.ArrayList;
 import java.util.PriorityQueue;
 
 public class prims_algo_greedy_method_cost_minimization {
-    static class edge{
+    static class edge {
         int src;
         int dest;
         int wt;
-        edge(int s, int d, int w){
+
+        edge(int s, int d, int w) {
             this.src = s;
             this.dest = d;
             this.wt = w;
@@ -60,35 +60,35 @@ public class prims_algo_greedy_method_cost_minimization {
     }
 
 
-    static class pair implements Comparable<pair>{
+    static class pair implements Comparable<pair> {
         int cost;
         int node;
 
-        pair(int n, int c){
+        pair(int n, int c) {
             this.node = n;
             this.cost = c;
         }
 
-        public int compareTo(pair p2){
+        public int compareTo(pair p2) {
             return this.cost - p2.cost;
         }
     }
 
-    static int primsAlgo(ArrayList<edge> graph[], int V){
+    static int primsAlgo(ArrayList<edge> graph[], int V) {
         PriorityQueue<pair> pq = new PriorityQueue<>();
-        pq.add(new pair(0,0));
+        pq.add(new pair(0, 0));
         boolean[] visited = new boolean[V];
 
         int cost = 0;
-        while(!pq.isEmpty()){
+        while (!pq.isEmpty()) {
             pair curr = pq.poll();
-            if(!visited[curr.node]){
+            if (!visited[curr.node]) {
                 visited[curr.node] = true;
                 cost = cost + curr.cost;
 
-                for(int i=0; i<graph[curr.node].size(); i++){
+                for (int i = 0; i < graph[curr.node].size(); i++) {
                     edge e = graph[curr.node].get(i);
-                    if(!visited[e.dest]){
+                    if (!visited[e.dest]) {
                         pq.add(new pair(e.dest, e.wt));
                     }
                 }
